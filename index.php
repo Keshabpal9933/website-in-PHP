@@ -207,7 +207,7 @@
       </div>
 
     </div>
-    
+    <hr>
   </section>
   <!------ footer begin------>
   <footer class="footer">
