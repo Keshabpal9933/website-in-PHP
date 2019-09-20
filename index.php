@@ -211,7 +211,10 @@
   </section>
   <!------ footer begin------>
   <footer class="footer">
-    <h5 class="text-center"> copyright © 2019 Developed By Keshab Pal</h5>
+    <h5 class="text-center"> copyright © 2019 Developed By Keshab Pal(Kanchanpur-Nepal)</h5>
+    <h5 class="text-center">Phone Number :+977 9812734573</h5>
+    <h5 class="text-center">Email :keshabpal9933@gmail.com</h5>
+
   </footer>
 </body>
 </html>
